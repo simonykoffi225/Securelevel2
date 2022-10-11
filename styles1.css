@@ -1,0 +1,190 @@
+.principal{
+    width: 100%;
+    min-height: 665px;
+    border: 0px #f00 solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secondaire{
+    width: 77%;
+    min-height:621px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: auto;
+    background-color: #6A6665;
+    /* background: linear-gradient(89.45deg, #5365A3 1.42%, rgba(118, 177, 191, 0.86) 78.2%);  */
+    padding-top:15px;
+}
+.trois{  
+   width: 97%;
+   min-height: 977px;
+   margin-top: auto;
+   margin-bottom: 5px;
+   margin-left: 84px;
+   margin-right: auto;
+   border: 0px solid #00f;
+
+}
+
+ .sidebar_gche{
+   width: 27%;
+   min-height: 289px;
+   left: 140px;
+   top: 100px;
+   background: #BD0202;
+   border-radius: 35px 0px 0px 35px;
+   margin-left: 0px;
+   float:left;
+ }
+.menu{
+   margin-top: 20px;
+}
+ .list-item{  
+   color: #fff;
+   font-size: 1em;
+   font-weight: 400px;
+   font-family: Arial, Helvetica, sans-serif;
+   display: flex;
+   padding: 10px;
+   height: 71px;
+   text-align: center;
+   line-height: 81px;   
+   font-size: 13px;
+   font-weight: bold;
+ }
+
+ .fond_blanc{  
+   width: 59%;
+   height: 759px;
+   margin-left: 250px;
+   border-radius: 0px 31px 31px 0px;
+   border: 1px #fff solid;
+   background-color: #fff;
+ }
+ .cercle_vert{    
+   width: 50px;
+   height: 50px;
+   border: #000 solid 0px;
+   border-radius: 100% 100%;
+   background-color: #00A51E;
+   margin-left: 350px;
+   margin-top: -39px;
+ }
+  .puce_verte{  
+   width: 50px;
+   height: 50px;
+   border: #000 solid 0px;
+   border-radius: 100% 100%;
+   background-color: #00A51E;
+   margin-left: 34px; 
+   margin-top: 22px;
+   float: left;
+ }
+ .puce_blanche{  
+   width: 50px;
+   height: 50px;
+   border: #000 solid 0px;
+   border-radius: 100% 100%;
+   background-color: #ffffff;
+   margin-left: 34px; 
+   margin-top: 22px;
+   float: left;
+ }
+ 
+ input[type=text],[type=email],[type=date]{
+   width: 100%;
+   display: inline-block;
+   border: 1px solid rgb(255, 255, 255);
+   border-radius: 4px;
+   box-sizing: border-box;
+   outline: #fff;
+   color: #aa9f9f;
+   font-weight: bold;
+ }
+ fieldset{
+   border: #EDE601 solid 1px;
+   border-radius: 5px;
+
+ }
+
+ .formulaire{
+   width: 78%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-left: 60px;
+ }
+ h3{
+  color: #f00;
+ }
+ hr{
+  background-color: #EDE601;
+ }
+ .dateevenement input{
+  height: 35px;
+ }
+ .datepost input{
+  height: 35px;
+ }
+ .titre fieldset{
+  width: 155px;
+ }
+ .nbrenfant fieldset{
+  width: 155px;
+ }
+ .nbrdhomme fieldset{
+  width: 155px;
+ }
+ p{
+  color: #3E3F5F;
+ }
+ .source input::placeholder{
+  color: #BCBCBC;
+ }
+ .titre input::placeholder{
+  color: #BCBCBC;
+ }
+ .nbrvictime input::placeholder{
+  color: #BCBCBC;
+ }
+ .engin input::placeholder{
+  color: #BCBCBC;
+ }
+ .nbrenfant input::placeholder{
+  color: #BCBCBC;
+ }
+ .nbrdfemme input::placeholder{
+  color: #BCBCBC;
+ }
+ .nbrdhomme input::placeholder{
+  color: #BCBCBC;
+ }
+ .lieu input::placeholder{
+  color: #BCBCBC;
+ }
+ legend{
+  font-weight: bold;
+ }
+ label{
+  font-weight: bold;
+ }
+select{
+  border: none;
+  width: 175px;
+  /* padding-left: 58px; */
+}
+input{
+  border: none;
+  color: none;
+}
+button{
+  /* width: 50px;
+   height: 50px; */
+   /* border: #000 solid 0px; */
+   /* border-radius: 100% 100%; */
+   /* background-color: #00A51E; */
+   margin-left: 30px;
+   margin-top: 73px;
+   background-color: #EDE601;
+   color: #000;
+}
